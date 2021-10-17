@@ -15,4 +15,6 @@ algorithm story
 10장 그래프   
   - DFS
   - BFS
-  - 백트레킹
+  - 백트레킹   
+  - method_self   
+  - 문제풀이(island)   
